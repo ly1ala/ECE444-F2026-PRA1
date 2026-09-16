@@ -15,3 +15,9 @@
 ## Activity 4 unit tests
 
 ![Utility and test commits](screenshots/activity4-commits.png)
+
+## Activity 5 rebase
+
+![Rebase command and output](screenshots/activity5-rebase.png)
+
+![Commit order after rebase](screenshots/activity5-order.png)
