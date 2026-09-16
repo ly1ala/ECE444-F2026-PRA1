@@ -11,3 +11,7 @@
 ## Activity 3 pull request
 
 ![Successful pull request merge](screenshots/activity3-pr-merged.png)
+
+## Activity 4 unit tests
+
+![Utility and test commits](screenshots/activity4-commits.png)
