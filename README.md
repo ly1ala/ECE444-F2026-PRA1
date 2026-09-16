@@ -7,3 +7,7 @@
 ## Activity 2 merge
 
 ![Merge output on main](screenshots/merge-output.png)
+
+## Activity 3 pull request
+
+![Successful pull request merge](screenshots/activity3-pr-merged.png)
